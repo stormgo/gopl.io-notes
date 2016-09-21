@@ -1,6 +1,9 @@
 # gopl.io-notes
 
-See the fork of gopl.io in my github.
+See this
+[fork of gopl.io]
+(https://github.com/stormasm/gopl.io)
+in my github.
 
 ### Aliases
 
