@@ -14,7 +14,7 @@ alias gr='go run'
 alias gtb='go test -bench .'
 ```
 
-To build all of these programs set your $GOPATH first and then go get something.
+To build all of these programs set your ***GOPATH*** first and then go get something.
 
 ### chapter 08
 
