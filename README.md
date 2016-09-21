@@ -18,13 +18,13 @@ To build all of these programs set your ***GOPATH*** first and then go get somet
 
 ### chapter 08
 
-go get gopl.io/ch8/cake
-cd src/gopl.io/ch8/
+    go get gopl.io/ch8/cake
+    cd src/gopl.io/ch8/
 
-cd cake
-gtb
+    cd cake
+    gtb
 
-cd crawl2
-go get
-gr findlinks.go http://google.com
-gr findlinks.go http://intel.com
+    cd crawl2
+    go get
+    gr findlinks.go http://google.com
+    gr findlinks.go http://intel.com
