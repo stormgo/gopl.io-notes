@@ -18,13 +18,28 @@ To build all of these programs set your ***GOPATH*** first and then go get somet
 
 ### chapter 08
 
+##### cake
+
     go get gopl.io/ch8/cake
     cd src/gopl.io/ch8/
 
     cd cake
     gtb
 
+##### chat
+
+    cd chat
+    go run chat.go
+    telnet localhost 8000
+
+##### crawl2
+
     cd crawl2
     go get
     gr findlinks.go http://google.com
     gr findlinks.go http://intel.com
+
+##### du4
+
+    cd du4
+    gr main.go /tmp
